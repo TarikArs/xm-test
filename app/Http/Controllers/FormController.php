@@ -7,8 +7,6 @@ use App\Http\Requests\FetchDataRequest;
 use App\Services\NasdaqApi;
 use App\Services\RapidApi;
 use Carbon\Carbon;
-use Illuminate\Http\RedirectResponse;
-use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Notification;
 
 class FormController extends Controller

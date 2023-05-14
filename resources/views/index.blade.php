@@ -169,7 +169,7 @@
                 if (formValidation()) {
                     // Validation passed, submit the form
                     this.submit();
-                }
+                 }
             });
 
         });
